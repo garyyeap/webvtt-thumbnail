@@ -1,0 +1,14 @@
+{
+  "name": "webvtt-thumbnail",
+  "version": "0.1.0",
+  "main": "index.js",
+  "jsnext:main": "index.js",
+  "module": "index.js",
+  "repository": "git@github.com:garyyeap/webvtt-thumbnail.git",
+  "author": "Gary Yeap <contact@garyyeap.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "webvtt-core": "^0.1.0"
+  }
+}
